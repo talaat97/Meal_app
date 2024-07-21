@@ -1,12 +1,12 @@
 # meal_app
 
-A program that enables you to choose your favorite meal to prepare based on your choice, the availability of healthy ingredients, and even the ease of preparing it at home. You can also filter meals in case you want them to be high in calories or a meal for vegetarians ✔🍖🍴💕
 
-#Technology
-  -flutter
-  -dart programming
-  -state management(provider)
-  -animation widget(Hero)
+
+## Technology
+  - flutter 
+  - dart programming
+  - state management(provider)
+  - animation widget(Hero)
 
 ## Getting Started
 
@@ -20,3 +20,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
