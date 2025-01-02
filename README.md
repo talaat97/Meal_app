@@ -1,4 +1,4 @@
-# meal_app
+# Your_kitchen
 
 A program that enables you to choose your favorite meal to prepare based on your choice, the availability of healthy ingredients, and even the ease of preparing it at home. You can also filter meals in case you want them to be high in calories or a meal for vegetarians ✔🍖🍴💕
 
